@@ -1,0 +1,13 @@
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Frmistatistik.resources
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Frmanaforms.resources
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Frmgrafikler.resources
+D:\CSharpUdemy\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FrmGiris.resources
